@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+outputs/*.mp4
+outputs/*.mov
+outputs/*.webm
+.temp_uploads/
+.DS_Store
